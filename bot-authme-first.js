@@ -4,9 +4,9 @@ const { pathfinder, Movements, goals } = require('mineflayer-pathfinder');
 // Configuration - Edit these values for your server
 const config = {
   server: {
-    host: 'pandorasmp.mcsh.io', // Change to your server IP
+    host: 'pandora.joinmc.world', // Change to your server IP
     port: 25565,
-    version: '1.21.11' // Change to your server version
+    version: '26.3' // Change to your server version
   },
   bot: {
     username: 'baklawa', // Change to your desired bot name
